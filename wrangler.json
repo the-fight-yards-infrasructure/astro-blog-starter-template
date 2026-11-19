@@ -12,20 +12,3 @@
 	},
 	"upload_source_maps": true
 }
-
-{
-	// ...
-	"d1_databases": [
-	  {
-		"binding": "the-fight-d1-base-yard",
-		"database_id": "7e73862e-057f-452f-bda9-4b5183aefcec"
-	  }
-	],
-	"kv_namespaces": [
-	  {
-		"binding": "the-fight-kv-bind-yard",
-		"id": "cd82120b9ba7417594784840f28d666f"
-	  }
-	],
-	// ...
-  }
